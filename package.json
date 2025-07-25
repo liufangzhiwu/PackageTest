@@ -1,0 +1,16 @@
+{
+  "name": "com.lfzw.test",
+  "displayName": "PackageTest",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "keywords": [   
+    "gltf",
+    "khronos",
+    "runtime",
+    "loader"
+  ],
+  "description": "It just a test",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  }
+}
